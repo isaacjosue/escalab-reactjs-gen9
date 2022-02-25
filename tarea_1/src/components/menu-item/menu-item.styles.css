@@ -1,0 +1,27 @@
+.menu_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30%;
+  background-size: 100%;
+  color: black;
+  margin: 5px 2px;
+}
+
+.menu_image {
+  width: 100%;
+}
+
+.menu_name {
+  position: absolute;
+  background-color: #ffffffdf;
+  margin: auto;
+}
+
+.small {
+  width: 31%;
+}
+
+.medium {
+  width: 48%;
+}

@@ -1,0 +1,8 @@
+#menu {
+    margin: 10px 0;
+    padding: 3px 3%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
